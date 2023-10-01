@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Portfolio_/static/css/main.11dbc9be.css",
+    "main.js": "/Portfolio_/static/js/main.c88ec4b1.js",
+    "static/media/project3.png": "/Portfolio_/static/media/project3.3cf20787e8af6b7ce630.png",
+    "static/media/project9.png": "/Portfolio_/static/media/project9.5c44b8a0e85ffc7a0c94.png",
+    "static/media/project5.png": "/Portfolio_/static/media/project5.cdb8fbb00ee45f1ae648.png",
+    "static/media/project1.png": "/Portfolio_/static/media/project1.a3df29a62af28e195353.png",
+    "static/media/project7.png": "/Portfolio_/static/media/project7.d6e723eabc025f3bcbf2.png",
+    "static/media/project4.png": "/Portfolio_/static/media/project4.3ee1d4e09e282151dda4.png",
+    "static/media/project8.png": "/Portfolio_/static/media/project8.ea9c140a1ea9a9d42a94.png",
+    "static/media/project2.png": "/Portfolio_/static/media/project2.934b7afe1191f477bb39.png",
+    "static/media/skills-image.png": "/Portfolio_/static/media/skills-image.51e40da64df180a7669a.png",
+    "static/media/project6.png": "/Portfolio_/static/media/project6.6cd8e5adeac28dacd0dc.png",
+    "static/media/project10.png": "/Portfolio_/static/media/project10.64bcfb4fd381d6e42978.png",
+    "static/media/Harsh_oc.pdf": "/Portfolio_/static/media/Harsh_oc.6ec352a4e23af9bc6d99.pdf",
+    "static/media/harsh_pic.jpg": "/Portfolio_/static/media/harsh_pic.59c4dc3e6e6026c4e3d9.jpg",
+    "static/media/person-3.png": "/Portfolio_/static/media/person-3.5dd0b714cfc8d2673b79.png",
+    "static/media/person-2.png": "/Portfolio_/static/media/person-2.6570129d3e8716b40235.png",
+    "static/media/person-1.png": "/Portfolio_/static/media/person-1.fb6c3796b42f9ad950c7.png",
+    "index.html": "/Portfolio_/index.html",
+    "main.11dbc9be.css.map": "/Portfolio_/static/css/main.11dbc9be.css.map",
+    "main.c88ec4b1.js.map": "/Portfolio_/static/js/main.c88ec4b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11dbc9be.css",
+    "static/js/main.c88ec4b1.js"
+  ]
+}
